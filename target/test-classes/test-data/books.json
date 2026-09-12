@@ -1,4 +1,0 @@
-{
-  "validBook":{"id":999,"title":"Senior QA Automation Assessment Book","description":"Created by automated API test","pageCount":250,"excerpt":"API automation with REST Assured","publishDate":"2026-09-11T00:00:00.000Z"},
-  "updatedBook":{"id":999,"title":"Updated Senior QA Automation Assessment Book","description":"Updated by automated API test","pageCount":300,"excerpt":"Updated API automation","publishDate":"2026-09-12T00:00:00.000Z"}
-}
