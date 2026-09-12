@@ -3,7 +3,7 @@
 This project implements the API section of the supplied Senior Software QC Automation Assessment.
 
 ## Stack
-Java 17, REST Assured, TestNG, Maven.
+Java 11+, REST Assured, TestNG, Maven.
 
 ## Design
 - Service Object Model: `BooksService`
@@ -34,6 +34,19 @@ The assessment says FakeRESTApi may simulate create/update/delete without perman
 `https://fakerestapi.azurewebsites.net/api/v1/Books`
 
 ## Run
+This project includes the **Maven Wrapper**, so you only need **Java 11+** installed — you do NOT need Maven installed separately.
+
+Windows:
+```
+.\mvnw.cmd clean test
+```
+
+macOS/Linux:
+```
+./mvnw clean test
+```
+
+If you already have Maven installed, you can alternatively run:
 `mvn clean test`
 
 ## Git

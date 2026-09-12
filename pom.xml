@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sameh.qa</groupId><artifactId>fakerestapi-api-assessment</artifactId><version>1.0-SNAPSHOT</version>
   <properties>
-    <maven.compiler.source>17</maven.compiler.source><maven.compiler.target>17</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source><maven.compiler.target>11</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <restassured.version>5.5.0</restassured.version><testng.version>7.10.2</testng.version>
     <jackson.version>2.17.2</jackson.version><surefire.version>3.5.0</surefire.version>
