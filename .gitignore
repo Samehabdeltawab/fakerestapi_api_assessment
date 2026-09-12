@@ -1,0 +1,12 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+test-output/
+
+# Temporary manual runner scripts (should never be committed)
+run-test*.ps1
+_temp_*.ps1
+*.tmp
